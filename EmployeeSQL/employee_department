@@ -1,5 +1,0 @@
-
-CREATE TABLE employee_department (
-    emp_no INT   NOT NULL,
-    dept_no VARCHAR(50)   NOT NULL,
-    dept_name VARCHAR(50)   NOT NULL);
