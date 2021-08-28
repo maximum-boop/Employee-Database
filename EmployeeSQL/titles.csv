@@ -1,4 +1,0 @@
-CREATE TABLE titles (
-    title_id INT  PRIMARY KEY NOT NULL,
-    emp_title VARCHAR(50)  NOT NULL,
-    FOREIGN KEY(emp_title) REFERENCES employees(emp_no) ON DELETE SET NULL);

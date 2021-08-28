@@ -1,3 +1,0 @@
-CREATE TABLE salaries (
-    emp_no INT  PRIMARY KEY NOT NULL,
-    salary INTEGER   NOT NULL);
